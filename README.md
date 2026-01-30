@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gripsi</h1>
-<h3 align="center">Aspiring Full-Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gripsi0810&label=Profile%20views&color=6A5ACD&style=flat" />
