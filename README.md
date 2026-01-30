@@ -1,9 +1,14 @@
-![Pinterest](https://github.com/user-attachments/assets/b7dd23dc-28a7-41e1-bbfb-c38636a59797)
- 
+ ![Pinterest](https://github.com/user-attachments/assets/5e1109eb-1196-44b2-8198-8f0805588abe)
+
 #Hi 👋, I'm Gripsi
 
 ## About Me
-Full-Stack Developer | Node.js | React | MongoDB | Portfolio Projects
+I am a Full-Stack Developer with hands-on experience in
+Node.js, React, MongoDB, and Express.  
+I focus on building clean, scalable, and efficient web applications.
+
+My goal is to grow as a software developer by working on
+real-world projects and contributing to meaningful products.
 
 ## Skills
 •⁠  ⁠JavaScript, Node.js, Express
