@@ -17,17 +17,9 @@
 
 ## 👩‍💻 About Me
 
-<img 
-  align="right"
-  width="260"
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-/>
+I am a **Full-Stack Developer** with hands-on experience in  Node.js, React, MongoDB, and Express.
 
-I am a **Full-Stack Developer** with hands-on experience in  
-**Node.js, React, MongoDB, and Express**.
-
-I focus on building clean, scalable, and efficient web applications.  
-My goal is to grow as a software developer by working on real-world  
+I focus on building clean, scalable, and efficient web applications. My goal is to grow as a software developer by working on real-world  
 projects and contributing to meaningful products.
 
 ---
