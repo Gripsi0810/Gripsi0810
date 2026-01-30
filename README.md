@@ -19,8 +19,8 @@
 
 <img 
   align="right"
-  width="260"
-  src="https://raw.githubusercontent.com/ishant-kr/ishant-kr/main/assets/coding-girl.png](https://camo.githubusercontent.com/43bda58d6642b20bac1fc137c8601f0d5a085d2c94a5def789b09d283282c22f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966)](https://i.pinimg.com/1200x/10/0d/9f/100d9f94ec9fb0615b6a1983e681bb01.jpg)"
+  width="280"
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 />
 
 I am a **Full-Stack Developer** with hands-on experience in  
