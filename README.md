@@ -2,7 +2,7 @@
   <img 
     src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1200&q=80"
     width="720"
-    height="450"
+    height="470"
   />
 </p>
 
