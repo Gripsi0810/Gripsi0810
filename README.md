@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1200&q=80" />
+  <img 
+    src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1200&q=80"
+    height="220"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gripsi</h1>
