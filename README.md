@@ -19,8 +19,8 @@
 
 <img 
   align="right"
-  width="280"
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  width="260"
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
 />
 
 I am a **Full-Stack Developer** with hands-on experience in  
