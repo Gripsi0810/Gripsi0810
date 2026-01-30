@@ -1,4 +1,4 @@
- ![Pinterest](https://github.com/user-attachments/assets/5e1109eb-1196-44b2-8198-8f0805588abe)
+![Pinterest2](https://github.com/user-attachments/assets/d6c6dba6-45fd-4bea-a171-65984793b7ee)
 
 #Hi 👋, I'm Gripsi
 
