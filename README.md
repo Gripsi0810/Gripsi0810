@@ -20,7 +20,7 @@
 <img 
   align="right"
   width="260"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
 />
 
 I am a **Full-Stack Developer** with hands-on experience in  
