@@ -1,4 +1,5 @@
-# Hi 👋, I'm Gripsi
+![Pinterest](https://github.com/user-attachments/assets/b7dd23dc-28a7-41e1-bbfb-c38636a59797)
+ #Hi 👋, I'm Gripsi
 
 ## About Me
 Full-Stack Developer | Node.js | React | MongoDB | Portfolio Projects
