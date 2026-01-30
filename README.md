@@ -1,25 +1,61 @@
-![Pinterest2](https://github.com/user-attachments/assets/d6c6dba6-45fd-4bea-a171-65984793b7ee)
 
-#Hi 👋, I'm Gripsi
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1200&q=80" />
+</p>
 
-## About Me
-I am a Full-Stack Developer with hands-on experience in
-Node.js, React, MongoDB, and Express.  
-I focus on building clean, scalable, and efficient web applications.
+<h1 align="center">Hi 👋, I'm Gripsi</h1>
+<h3 align="center">Aspiring Full-Stack Developer from India 🇮🇳</h3>
 
-My goal is to grow as a software developer by working on
-real-world projects and contributing to meaningful products.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gripsi0810&label=Profile%20views&color=6A5ACD&style=flat" />
+</p>
 
-## Skills
-•⁠  ⁠JavaScript, Node.js, Express
-•⁠  ⁠React, Redux, HTML, CSS
-•⁠  ⁠MongoDB, SQL
-•⁠  ⁠Git, GitHub, REST APIs
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## Projects
-•⁠  ⁠[HireHub](https://github.com/Gripsis0810/HireHub)
-•⁠  ⁠[TrackMySpend](https://github.com/Gripsis0810/TrackMySpend)
+---
 
-## Contact
-•⁠  ⁠Email: sindwanigripsi@gmail.com
-•⁠  ⁠LinkedIn: [linkedin.com/in/gripsi-sindwani-0524582a1](http://linkedin.com/in/gripsi-sindwani-0524582a1)
+## 👩‍💻 About Me
+
+I am a **Full-Stack Developer** with hands-on experience in  
+**Node.js, React, MongoDB, and Express**.
+
+I focus on building clean, scalable, and efficient web applications.  
+My goal is to grow as a software developer by working on real-world
+projects and contributing to meaningful products.
+
+---
+
+## 🛠 Skills
+- JavaScript, Node.js, Express
+- React, Redux, HTML, CSS
+- MongoDB, SQL
+- Git, GitHub, REST APIs
+
+---
+
+## 📂 Projects
+- 🚀 [HireHub](https://github.com/Gripsis0810/HireHub)
+- 💰 [TrackMySpend](https://github.com/Gripsis0810/TrackMySpend)
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/gripsi-sindwani-0524582a1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sindwanigripsi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gripsi0810">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Always learning &nbsp;•&nbsp; 🚀 Building projects &nbsp;•&nbsp; 🌱 Growing every day
+</p>
