@@ -13,7 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=Gripsi0810&label=Profile%20views&color=6A5ACD&style=flat" />
 </p>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img 
+  align="right"
+  width="280"
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+/>
 
 ---
 
